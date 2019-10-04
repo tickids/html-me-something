@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    background-image: url(images/tegu1.jpg);
+    background-size: cover;
+
+    }
+
+
+.tupi{
+    width: 680px;
+    margin: 0 auto;
+    background: olive;
+
+    }
+
+
+
+#blk{
+    text-align: center;
+    font-family: "brush script mt", sans-serif;
+    font-style: italic;
+    color: green;
+    padding: 1px 0 0 0;
+
+    }
+
+
+h4{
+    margin:0;
+
+    }
+
+
+h6{
+    color: black;
+    font-family: arial, sans-serif;
+    text-align: center;
+    margin: 0;
+
+    }
+
+
+#pix{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0 10px 0;
+
+    }
+
+
+#tegu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0 10px 0;
+
+    }
+
+
+#bottom{
+    box-shadow: 2px 4px 6px 2px;
+
+    }
+
+
+#pix2{
+    box-shadow: 1px 2px 2px 2px;
+
+    }
+
+
+h3{
+    color:#fff;
+    text-shadow:0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18, 0 0 30px #49ff18, 0 0 40px #49ff18, 0 0
+    55px #49ff18, 0 0 75px #49ff18;
+    font-family: arial, sans-serif;
+
+    }
+
+
+#links{
+    font-size: 12px;
+    font-family: arial, sans-serif;
+
+    }
+
+
+p{
+    margin: 0;
+    padding: 15px 40px 0 40px;
+    color: black;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    text-align: justify;
+
+    }
+
+
+article{
+    padding: 0 0 20px 0;
+
+    }
+
+
+aside{
+    padding: 0 0 20px 40px;
+
+    }
+
+
+#vid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }
+
+
+hr{
+    width: 100%;
+    height: 4px;
+    color: khaki;
+    background-color: khaki;
+    border: 0 none;
+
+    }
+
+footer{
+    padding: 6px 40px 6px 40px; /* the pattern for margins is 'top(6px) right(40px) bottom(6px) left(40px)*/
+    background: palegoldenrod;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 11px;
+    color: darkviolet;
+    text-decoration: right;
+
+
+    }
+
